@@ -46,7 +46,7 @@ You Need Firebase and IMGur for storage, so Account must needed.
 ✅ User Authentication (Firebase Auth)  
 ✅ Browse Food Items  
 ✅ Add to Cart & Checkout  
-✅ Order Management  
+✅ Order Management 
 ✅ Admin Panel for Adding Food Items (Available in Admin App)  
 
 ---
