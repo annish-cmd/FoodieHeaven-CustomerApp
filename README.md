@@ -1,5 +1,5 @@
 
-# **FoodieHeaven 🍔🍕**  
+# **FoodieHeaven Customer App 🍔🍕**  
 
 🚀 **A Food Ordering App** built with **Android (Kotlin)**, using **Firebase** for database management and **IMGur** for image storage, as Firebase Storage is now premium.  
 
