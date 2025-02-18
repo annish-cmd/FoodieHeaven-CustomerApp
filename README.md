@@ -22,6 +22,8 @@ The project files are too large to store directly on GitHub ☹️. You can down
 | **🖼️ Image Storage** | IMGur |
 | **⚡ Architecture** | MVVM |
 | **☁ Backend** | Firebase Firestore & Authentication |
+| **🔍 Recommendation Algorithm** | Cosine Similarity (Content-Based Filtering) |
+
 
 ---
 
